@@ -1,0 +1,218 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  height: 100%;
+  background-color: #f7f7f7;
+}
+
+.heart {
+  width: 1200px;
+  margin: auto;
+}
+
+header {
+  background-color: #242933;
+}
+
+header .heart .header_top {
+  height: 40px;
+  line-height: 40px;
+  color: #8a8f99;
+  font-size: 12px;
+}
+
+header .heart .header_top a {
+  display: inline-block;
+  color: #8a8f99;
+  font-weight: 400;
+  line-height: 40px;
+  transition: color .2s ease-in-out;
+}
+
+header .heart .header_top a:hover {
+  color: #fff;
+  font-weight: 500;
+}
+
+header .heart .header_top li {
+  float: left;
+  padding-right: 42px;
+}
+
+header .heart .header_top .header_right {
+  float: right;
+}
+
+header .heart .header_top .header_right a {
+  margin: 0 10px;
+}
+
+header .heart .header_top .header_right .page {
+  position: absolute;
+  right: 22px;
+  width: 140px;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 10px;
+  z-index: 999;
+  display: none;
+}
+
+header .heart .header_top .header_right .page p {
+  height: 40px;
+  line-height: 40px;
+  font-size: 16px;
+}
+
+header .heart .header_top .header_right .page p a:hover {
+  color: #415fff;
+  font-weight: 700;
+}
+
+.bank {
+  width: 100%;
+  height: 86px;
+}
+
+.bank .banner_top {
+  height: 86px;
+  line-height: 86px;
+  margin: 0 auto;
+  color: #fff;
+  font-weight: bold;
+}
+
+.bank .banner_top a {
+  color: #333;
+  transition: color .2s ease-in-out;
+}
+
+.bank .banner_top a:hover {
+  color: #415fff;
+}
+
+.bank .banner_top h1 {
+  width: 110px;
+  font-size: 46px;
+  float: left;
+  padding-left: 4px;
+  font-family: '隶书';
+}
+
+.bank .banner_top ul {
+  position: relative;
+  margin: 0 28px 0 104px;
+  width: 1000px;
+  height: 100%;
+  text-align: center;
+}
+
+.bank .banner_top ul li {
+  padding: 0 20px;
+  font-size: 14px;
+  display: inline-block;
+  margin: auto;
+  font-weight: 600;
+}
+
+.text {
+  font-size: 12px;
+  height: 40px;
+  color: #535353;
+  margin-top: 30px;
+  line-height: 40px;
+}
+
+.text span {
+  padding: 0 6px;
+  font-size: 14px;
+}
+
+.text i {
+  color: #8a8f99;
+}
+
+.main #list {
+  width: 1200px;
+  overflow: hidden;
+}
+
+.main #list img {
+  width: 200px;
+}
+
+.main #list li {
+  margin-right: 11px;
+  width: 249px;
+  height: 340px;
+  padding: 40px 20px 10px;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.main #list li h4 {
+  margin: 0 0 10px 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: normal;
+  height: 20px;
+  line-height: 20px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.main #list li .desc {
+  margin: 0 0 23px;
+  height: 35px;
+  color: #333;
+  font-size: 12px;
+  line-height: 18px;
+  word-break: break-all;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+
+.main #list li .price span {
+  color: #f00;
+}
+
+.main #list li .price span::before {
+  content: '￥';
+}
+
+footer {
+  color: #a8a8a8;
+  clear: both;
+}
+
+footer .heart {
+  text-align: center;
+}
+
+footer .heart p {
+  line-height: 16px;
+  font-size: 12px;
+  padding: 28px 0;
+}
+
+footer .heart p a {
+  color: #a8a8a8;
+}

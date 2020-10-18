@@ -1,0 +1,145 @@
+[
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_750x750.png.webp",
+        "name": "vivo Y73s 5G版 8GB+128GB 银月",
+        "desc": "【①预定享优先发货;②享12期免息;③vivo老用户咨询客服加赠XE900耳机;④晒单赢新品手机】 约7.73mm轻薄外观|4800万后置影像系统|6.44英寸高清护眼屏|支持屏幕指纹解锁",
+        "price": "1998.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_750x750.png.webp",
+        "name": "vivo Y73s 5G版 8GB+128GB 黑镜",
+        "desc": "【①预定享优先发货;②享12期免息;③vivo老用户咨询客服加赠XE900耳机;④晒单赢新品手机】 约7.73mm轻薄外观|4800万后置影像系统|6.44英寸高清护眼屏|支持屏幕指纹解锁",
+        "price": "1998.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_750x750.png.webp",
+        "name": "iQOO 5 Pro 5G版 8GB+256GB 赛道版",
+        "desc": "【现货开售享：①12期免息；②赠XE710 Type-C耳机；③高等级会员加赠半年延保】 BMW定制，高通骁龙865，120W超快闪充，120Hz超视感曲面屏，全竞速核芯，带来职业级电竞体验。",
+        "price": "4998.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_750x750.png.webp",
+        "name": "iQOO 5 Pro 5G版 12GB+256GB 传奇版",
+        "desc": "【10月16日10:00:00开售享：①12期免息；②赠XE710 Type-C耳机；③高等级会员加赠半年延保】 BMW定制，高通骁龙865，120W超快闪充，120Hz超视感曲面屏，全竞速核芯，带来职业级电竞体验。",
+        "price": "5498.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_750x750.png.webp",
+        "name": "iQOO 5 5G版 8GB+128GB 星溯",
+        "desc": "【10.16享：①12期免息；②赠半年延保；③高等级会员赠网易耳机；④赠90元组合配件券】 120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+        "price": "3998.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_750x750.png.webp",
+        "name": "iQOO 5 5G版 12GB+128GB 皓影",
+        "desc": "【10.16享：①12期免息；②赠半年延保；③高等级会员赠网易耳机；④赠90元组合配件券】 120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+        "price": "4298.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_750x750.png.webp",
+        "name": "iQOO 5 5G版 12GB+256GB 皓影",
+        "desc": "【10.16享：①12期免息；②赠半年延保；③高等级会员赠网易耳机；④赠90元组合配件券】 120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+        "price": "4598.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693259882_750x750.png.webp",
+        "name": "iQOO U1 全网通版 6GB+128GB 秘境黑",
+        "desc": "【①高等级会员加赠半年延保；②赠90元组合配件券】 高通骁龙 720G；闪存+快速读取；4500mAh大电池,18W闪充超强续航",
+        "price": "1398.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_750x750.png.webp",
+        "name": "iQOO U1 全网通版 8GB+128GB 星耀蓝",
+        "desc": "【①高等级会员加赠半年延保；②赠90元组合配件券】 高通骁龙 720G；闪存+快速读取；4500mAh大电池,18W闪充超强续航",
+        "price": "1598.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_750x750.png.webp",
+        "name": "iQOO Z1x 5G版 6GB+128GB 水漾白",
+        "desc": "【①3期免息；②高等级会员加赠半年延保；③赠90元组合配件券】 双模5G全网通，120Hz竞速屏，PC级液冷散热",
+        "price": "1798.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_750x750.png.webp",
+        "name": "iQOO Z1x 5G版 8GB+128GB 海蔚蓝",
+        "desc": "【①3期免息；②高等级会员加赠半年延保；③赠90元组合配件券】 双模5G全网通，120Hz竞速屏，PC级液冷散热",
+        "price": "1998.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_750x750.png.webp",
+        "name": "iQOO Z1x 5G版 8GB+256GB 锐酷黑",
+        "desc": "【①3期免息；②高等级会员加赠半年延保；③赠90元组合配件券】 双模5G全网通，120Hz竞速屏，PC级液冷散热",
+        "price": "2298.00"
+    },{
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/30/10005630_1602488679015_750x750.png.webp",
+        "name": "vivo S7 5G版 8GB+256GB 爵士黑",
+        "desc": "【①限时享24期免息；②vivo老用户咨询客服加赠网易耳机；③高等级会员加赠移动电源】 约7.39mm超薄外观|约170g|前置4400万AF广角双摄|后置6400万超感光影像系统",
+        "price": "3098.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/30/10005630_1602488589710_750x750.png.webp",
+        "name": "vivo S7 5G版 8GB+128GB 爵士黑",
+        "desc": "【①限时享24期免息；②vivo老用户咨询客服加赠网易耳机；③高等级会员加赠移动电源】 约7.39mm超薄外观|约170g|前置4400万AF广角双摄|后置6400万超感光影像系统",
+        "price": "2798.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/30/10005630_1602488519499_750x750.png.webp",
+        "name": "vivo S7 5G版 8GB+128GB 莫奈漫彩",
+        "desc": "【①限时享24期免息；②vivo老用户咨询客服加赠网易耳机；③高等级会员加赠移动电源】 约7.39mm超薄外观|约170g|前置4400万AF广角双摄|后置6400万超感光影像系统",
+        "price": "2798.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/29/10005629_1595916366616_750x750.png.webp",
+        "name": "vivo Y51s 5G版 6GB+128GB 碧海蓝",
+        "desc": "【①限时优惠100元，到手价1698；②享6期免息；③vivo老用户咨询客服加赠XE900耳机】 双模5G全网通|4500mAh+双引擎闪充|前置AI美拍",
+        "price": "1698.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/44/10002544_1590047354570_750x750.png.webp",
+        "name": "vivo X50 5G版 8GB+128GB 黑镜",
+        "desc": "【①限时享24期免息；②vivo老用户咨询客服赠天猫精灵方糖音箱】 超薄柔性屏|超感光夜摄|超稳运动拍摄|定制IMX598传感器",
+        "price": "3298.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/58/10000958_1571535776110_750x750.png.webp",
+        "name": "vivo Y3 4GB+64GB版 绯玉红",
+        "desc": "【限时优惠99元，到手价999；vivo老用户咨询客服加赠XE900耳机】 5000mAh大电池，双引擎闪充，前置800万像素",
+        "price": "999.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/42/10002842_1592567673329_750x750.png.webp",
+        "name": "vivo X50 Pro+ 5G版 8GB+256GB 引力",
+        "desc": "【①前100名加赠移动电源；②享24期免息；③vivo老用户咨询客服赠天猫精灵方糖音箱】 超清1亿模式|高通骁龙865|120Hz刷新率、240Hz采样率|双模5G全网通",
+        "price": "5498.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/42/10002842_1591184705222_750x750.png.webp",
+        "name": "vivo X50 Pro 5G版 8GB+128GB 黑镜",
+        "desc": "【①享12期免息；②vivo老用户咨询客服赠天猫精灵方糖音箱】 微云台超感光主摄|超稳运动拍摄|90Hz高刷新率、180Hz高采样率屏幕|轻薄曲面屏|双模5G全网通",
+        "price": "3998.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/46/10001546_1572360966542_750x750.png.webp",
+        "name": "vivo Y3标准版 3GB+64GB 墨黛蓝",
+        "desc": "【限时优惠100元，到手价899；vivo老用户咨询客服加赠XE900耳机】 5000mAh超大电池，6.35英寸水滴屏，超质感精美外观，SOS安全守护",
+        "price": "899.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/25/10002225_1590683137668_750x750.png.webp",
+        "name": "iQOO Neo3 5G版 8GB+128GB 极昼",
+        "desc": "【10.16享：①下单立减200元；②6期免息；③赠半年延保；④官网独家镭雕定制服务】 144Hz高刷竞速屏/高通骁龙865/双模5G全网通/44W+ 4500mAh/立体双扬Hi-Fi/UFS 3.1",
+        "price": "2998.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/25/10002225_1587554921280_750x750.png.webp",
+        "name": "iQOO Neo3 5G版 12GB+128GB 夜幕黑",
+        "desc": "【10.16享：①下单立减200元；②6期免息；③赠半年延保；④官网独家镭雕定制服务】 144Hz高刷竞速屏/高通骁龙865/双模5G全网通/44W+ 4500mAh/立体双扬Hi-Fi/UFS 3.1",
+        "price": "3298.00"
+    },
+    {
+        "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/25/10002225_1587554799206_750x750.png.webp",
+        "name": "iQOO Neo3 5G版 8GB+256GB 夜幕黑",
+        "desc": "【①6期免息；②赠半年延保；③官网独家镭雕定制服务】 144Hz高刷竞速屏/高通骁龙865/双模5G全网通/44W+ 4500mAh/立体双扬Hi-Fi/UFS 3.1",
+        "price": "3398.00"
+    }
+]

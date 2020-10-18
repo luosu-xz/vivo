@@ -1,0 +1,272 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  height: 100%;
+}
+
+.heart {
+  width: 1200px;
+  margin: auto;
+}
+
+header {
+  background-color: #242933;
+}
+
+header .heart .header_top {
+  height: 40px;
+  line-height: 40px;
+  color: #8a8f99;
+  font-size: 12px;
+}
+
+header .heart .header_top a {
+  display: inline-block;
+  color: #8a8f99;
+  font-weight: 400;
+  line-height: 40px;
+  transition: color .2s ease-in-out;
+}
+
+header .heart .header_top a:hover {
+  color: #fff;
+  font-weight: 500;
+}
+
+header .heart .header_top li {
+  float: left;
+  padding-right: 42px;
+}
+
+header .heart .header_top .header_right {
+  float: right;
+}
+
+header .heart .header_top .header_right a {
+  margin: 0 10px;
+}
+
+header .heart .header_top .header_right .page {
+  position: absolute;
+  right: 22px;
+  width: 140px;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 10px;
+  z-index: 999;
+  display: none;
+}
+
+header .heart .header_top .header_right .page p {
+  height: 40px;
+  line-height: 40px;
+  font-size: 16px;
+}
+
+header .heart .header_top .header_right .page p a:hover {
+  color: #415fff;
+  font-weight: 700;
+}
+
+.banner {
+  width: 100%;
+  position: relative;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.banner header {
+  width: 100%;
+}
+
+.banner header .bank {
+  width: 100%;
+  height: 86px;
+  position: absolute;
+  top: 0;
+}
+
+.banner header .bank .banner_top {
+  height: 86px;
+  line-height: 86px;
+  margin: 0 auto;
+  color: #fff;
+  font-weight: bold;
+}
+
+.banner header .bank .banner_top a {
+  color: #fff;
+  transition: color .2s ease-in-out;
+}
+
+.banner header .bank .banner_top a:hover {
+  color: #415fff;
+}
+
+.banner header .bank .banner_top h1 {
+  width: 110px;
+  font-size: 46px;
+  float: left;
+  padding-left: 4px;
+  font-family: '隶书';
+}
+
+.banner header .bank .banner_top ul {
+  position: relative;
+  margin: 0 28px 0 104px;
+  width: 1000px;
+  height: 100%;
+  text-align: center;
+}
+
+.banner header .bank .banner_top ul li {
+  padding: 0 20px;
+  font-size: 14px;
+  display: inline-block;
+  margin: auto;
+  font-weight: 600;
+}
+
+.banner header .bannertext {
+  font-size: 4vw;
+  line-height: 5vw;
+  letter-spacing: 0vw;
+  margin-bottom: 4vw;
+  font-weight: bold;
+  width: 33vw;
+  color: #fff;
+  position: absolute;
+  top: 180px;
+  left: 70px;
+}
+
+.banner header .bannertext a {
+  color: #fff;
+  transition: color .2s ease-in-out;
+}
+
+.banner header .bannertext a:hover {
+  color: #415fff;
+}
+
+.banner header .bannertext span {
+  font-family: "黑体";
+  display: inline-block;
+  margin-top: 60px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.banner .nav {
+  width: 100%;
+  height: 86px;
+  background-color: #fff;
+  z-index: 99;
+  position: absolute;
+  top: 0;
+}
+
+.banner .nav .heart a {
+  color: #333;
+  transition: color .2s ease-in-out;
+}
+
+.banner .nav .heart a:hover {
+  color: #415fff;
+}
+
+.banner .nav .heart .head {
+  height: 86px;
+  line-height: 86px;
+  font-weight: bold;
+  position: absolute;
+}
+
+.banner .nav .heart .head h1 {
+  width: 110px;
+  font-size: 46px;
+  float: left;
+  padding-left: 4px;
+  font-family: '隶书';
+}
+
+.banner .nav .heart .head ul {
+  position: relative;
+  margin: 0 28px 0 104px;
+  width: 1000px;
+  height: 100%;
+  text-align: center;
+}
+
+.banner .nav .heart .head ul li {
+  padding: 0 20px;
+  font-size: 14px;
+  display: inline-block;
+  margin: auto;
+  font-weight: 600;
+}
+
+.content h2 {
+  font-size: 40px;
+  color: #242933;
+  font-weight: 500;
+}
+
+.content .box1 {
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+
+.content .box1 img {
+  width: 100%;
+  height: 100%;
+  border-radius: 25px;
+  margin-top: 40px;
+}
+
+.content .box2 {
+  background-color: #f0f2f5;
+  padding-top: 80px;
+  margin-bottom: 100px;
+}
+
+.content .box2 img {
+  width: 560px;
+  height: 300px;
+  margin: auto;
+}
+
+footer {
+  color: #c6cfff;
+  background-color: #415fff;
+  clear: both;
+}
+
+footer .heart {
+  text-align: center;
+}
+
+footer .heart p {
+  line-height: 16px;
+  font-size: 12px;
+  padding: 28px 0;
+}
+
+footer .heart p a {
+  color: #c6cfff;
+}

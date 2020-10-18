@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录</title>
+    <link rel="stylesheet" href="../css/enter.css">
+</head>
+<body>
+    <div class="enter">
+        <div class="banner">
+            <div class="content">
+                <img src="../images/enter/bj.jpg">
+                <div class="logo"><a href="../index.html"></a></div>
+                <form action="">
+                    <h2>账户登录</h2>
+                    <p><label for="">用户名</label><input type="text" id="username"></p>
+                    <p><label for="">密码</label><input type="text" id="password"></p>
+                    <div class="checkbox">
+                        <label><input id="remenber" type="checkbox"> 两周内免登陆</label>
+                    </div>
+                    <button type="button" id="loginBtn" class="btn">登录</button>
+                    <button type="button" id="registerBtn" class="btn2">注册vivo账号</button>
+                    <span>忘记密码</span>
+                </form>
+            </div>
+        </div>
+        <footer>
+            <p class="service">
+                <a href="https://kefu.vivo.com.cn/robot-vivo/pcChat.html" target="_blank" class="to-service">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAPCAYAAAGega+EAAABYWlDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokWNgYFJJLCjIYWFgYMjNKykKcndSiIiMUmB/yMAOhLwMYgwKicnFBY4BAT5AJQwwGhV8u8bACKIv64LMOiU1tUm1XsDXYqbw1YuvRJsw1aMArpTU4mQg/QeIU5MLikoYGBhTgGzl8pICELsDyBYpAjoKyJ4DYqdD2BtA7CQI+whYTUiQM5B9A8hWSM5IBJrB+API1klCEk9HYkPtBQFul8zigpzESoUAYwKuJQOUpFaUgGjn/ILKosz0jBIFR2AopSp45iXr6SgYGRiaMzCAwhyi+nMgOCwZxc4gxJrvMzDY7v////9uhJjXfgaGjUCdXDsRYhoWDAyC3AwMJ3YWJBYlgoWYgZgpLY2B4dNyBgbeSAYG4QtAPdHFacZGYHlGHicGBtZ7//9/VmNgYJ/MwPB3wv//vxf9//93MVDzHQaGA3kAFSFl7jXH0fsAAAHJSURBVDgRnZO9S8NQFMWTNB3sIoggdnFQcXISxEEnxT+gg4OIUIS2CUjp4McgmMGtQwfpJ7iJooPoUPwDxEWooK4uLhkFl4BoG3/30WjU+vmgPe/dc+55994kmsZKpVK+oJZOp+ttTOpEr3RdH1aM+iNy/XbSNMuyZnQJQFhIJ3zfn6jVaiO64zim67pPQhqGsSb4/VI+3F9GdoLPlZhGCSx/lQd3+Vo64kcRfkSclLMQ552ciA/ilO/Eadlstg/yOCCVVSaTWcXW4dcVEOB1PB4fo+9nmeJliHi3hVvmyihDMVbfMaFDtVrd5tjQguo/dhU6+3JdMpT8aQtfF1FeWv3EEiCuRqO649BPbIXHKd0lqEVGsAFudUpWMQQHtG4EAuVk2/ZQs9k8pIk73EqxWKxRKBTuA1EYc7lcj+d5Y2httAORSGSuVCrdyku4TmCc6xPhhN/uqewI0wuThE1mHg8SIRZkj/Gu4E9ncpfoxpUevVar1StJ/1ntXE9am6S1Pcob5aN5+IsZud3k3pA7r4bNRufFtEAH4gxsgK/DNk3ztFgs3skltGoD02im0DiVSqUMtj+UH8qQqpHsM48dWlnEeFaeVDjtBaRT1nHakjV9AAAAAElFTkSuQmCC" >
+                    <span class="online-person"> 在线客服</span></a> <a data-v-8e8a354a="" class="to-service">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAFVZq6RAAABYWlDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokWNgYFJJLCjIYWFgYMjNKykKcndSiIiMUmB/yMAOhLwMYgwKicnFBY4BAT5AJQwwGhV8u8bACKIv64LMOiU1tUm1XsDXYqbw1YuvRJsw1aMArpTU4mQg/QeIU5MLikoYGBhTgGzl8pICELsDyBYpAjoKyJ4DYqdD2BtA7CQI+whYTUiQM5B9A8hWSM5IBJrB+API1klCEk9HYkPtBQFul8zigpzESoUAYwKuJQOUpFaUgGjn/ILKosz0jBIFR2AopSp45iXr6SgYGRiaMzCAwhyi+nMgOCwZxc4gxJrvMzDY7v////9uhJjXfgaGjUCdXDsRYhoWDAyC3AwMJ3YWJBYlgoWYgZgpLY2B4dNyBgbeSAYG4QtAPdHFacZGYHlGHicGBtZ7//9/VmNgYJ/MwPB3wv//vxf9//93MVDzHQaGA3kAFSFl7jXH0fsAAAGwSURBVCgVdZI/SEJRFMZ97/mHHgQ2RCEFDgVBDRFCDQ1RS0vQ0NjQpGJJblEEORZBCo9KRZBwCF2aWiNwDKOtMZDwDTaIgYb4p999cEXJLtz3nXu+7zvn3Me12YavQCBwqvE59vl8s8Vi8c2S+f3+ihXAhAaMMLpkdiSjiADGoSjKhy0UCi3m83mNRFcqBNpbrZa3UCh8ORwObz8h7U+qql5R4rvdbj97PB7NIqSSUR6J291ud8vKkTiUpESVZMnpdGZoviyTAlXqZg3DqIHJfsJOvXkxajKZHOinohplZ/vVIlZwKMFg0AD3Od+x51Kp1IroIW58o2maj8Qed1hDuNCry8GL6xVRBnHOIhg5TWIVYgLEmDoChy5xv10YF9OKnmP8sgbTG0PVJO20cVO5JgS0j3Y6nTNMS/8ZlEgk4q7X6yUE0+wqlxiJRqM//xnUeDxepeI2nV4QzZTL5RJjbkhDOBwel7HA3t/goUzyJkzMm4wofvYJ+EDHC9M03zmnE4nEec8g3GJxj3WE94SXuq5fx2KxhsjT9RYw/xgEKRfjTDWbzQMKVFwuV45H8fkLmKerdC5pa5YAAAAASUVORK5CYII=" class="phone">
+                    <span class="hot-line"> 400-678-9688(24小时全国服务热线)</span>
+                </a>
+            </p>
+            <p class="copyright">
+                COPYRIGHT ©2020 广东步步高电子工业有限公司 版权所有 保留一切权利 | 隐私政策 | 法律声明 | 粤B2-20080267 | 粤ICP备05100288号
+            </p>
+        </footer>
+    </div>
+    <script src="../js/QF.js"></script>
+    <script src="../js/enter.js"></script>
+    
+</body>
+</html>

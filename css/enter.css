@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.enter {
+  background-color: #f7f7f7;
+}
+
+.enter .banner {
+  background-color: #e1ecfe;
+}
+
+.enter .banner .content {
+  height: 780px;
+  width: 1200px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.enter .banner .content .logo {
+  position: absolute;
+  top: 0;
+  left: 243px;
+}
+
+.enter .banner .content .logo a {
+  display: block;
+  height: 52px;
+  width: 145px;
+  background-image: url(https://accountstatic.vivo.com.cn/accountstatic.vivo.com.cn/static/img/logo-1.e4aed09.png);
+  background-size: 100% 100%;
+}
+
+.enter .banner .content form {
+  width: 400px;
+  height: 460px;
+  background-color: #fff;
+  position: absolute;
+  top: 74px;
+  right: -50px;
+  padding: 30px 30px 20px;
+  text-align: center;
+}
+
+.enter .banner .content form h2 {
+  margin-bottom: 50px;
+  font-weight: 400;
+}
+
+.enter .banner .content form p {
+  margin-top: 20px;
+  color: #606266;
+}
+
+.enter .banner .content form p input {
+  border: 1px solid #dedfe0;
+  box-sizing: border-box;
+  color: #333333;
+  height: 48px;
+  width: 300px;
+  line-height: 48px;
+  outline: 0;
+  padding: 0 15px;
+  margin-left: 5px;
+}
+
+.enter .banner .content form p #password {
+  margin-left: 20px;
+}
+
+.enter .banner .content form .checkbox {
+  margin: 20px 0;
+  color: #606266;
+}
+
+.enter .banner .content form button {
+  width: 360px;
+  height: 48px;
+  margin-left: 20px;
+  line-height: 48px;
+  font-size: 17px;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+  outline: 0;
+  border: 0;
+  background-color: #456fff;
+}
+
+.enter .banner .content form .btn2 {
+  background-color: #fff;
+  color: #456fff;
+  margin-top: 20px;
+  border: 1px solid #456fff;
+}
+
+.enter .banner .content form span {
+  color: #606266;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.enter footer {
+  margin-top: 135px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 11px;
+  color: #9d9d9d;
+}
+
+.enter footer .service a {
+  text-decoration: none;
+  color: #666;
+}
+
+.enter footer .service span {
+  padding: 10px;
+}
+
+.enter footer .copyright {
+  padding: 10px 0;
+  font-size: 10px;
+  box-sizing: border-box;
+}
